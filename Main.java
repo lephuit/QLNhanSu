@@ -27,7 +27,6 @@ public class Main {
                     "6. Tìm Nhân viên thường có lương cao nhất\n" +
                     "7. Tìm Trưởng Phòng có số lượng nhân viên dưới quyền nhiều nhất\n" +
                     "8. Sắp xếp nhân viên toàn công ty theo thứ tự abc\n" +
-                    //https://www.youtube.com/watch?v=L42NVLVznZE&list=PLFPekWzEN9zMJ_3EU06_RzvTJWzA4b4Uo&index=29
                     "9. Sắp xếp nhân viên toàn công ty theo thứ tự lương giảm dần\n" +
                     "10. Tìm Giám Đốc có số lượng cổ phần nhiều nhất\n" +
                     "11. Tính và Xuất tổng THU NHẬP của từng Giám Đốc \n" +
