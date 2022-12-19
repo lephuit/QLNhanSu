@@ -9,7 +9,6 @@ public class QuanLyNhanVienThuong extends NhanVien {
         System.out.print("STT    Mã NV   Tên nhân viên      SĐT         Số ngày làm     Lương Ngày       Lương");
         for (int i=0;i<listNVThuong.size();i++) {
             NhanVien nhanVien = listNVThuong.get(i);
-            //nhanVien.setLuong(nhanVien.getSoNgayLam()*100);
             //mã số, họ tên, số điện thoại, số ngày làm việc, lương 1 ngày và cách tính lương
             System.out.print("\n ["+(i+1)+"]      "+nhanVien.getMaNV()+"    "+nhanVien.getTenNV()+"         " +
                     ""+nhanVien.getSDT()+"         "+nhanVien.getSoNgayLam()+"          "+nhanVien.getLuongNgay()+"      "+nhanVien.getLuong());
